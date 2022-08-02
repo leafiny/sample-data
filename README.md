@@ -13,7 +13,7 @@ mysql -u {user} -h {host} -p {database} < 1.11.0/database/leafiny_cms.sql
 Admin user credentials:
 
 - **Username:** leafiny
-- **password:** Leafiny123
+- **Password:** Leafiny123
 
 ### Media
 
