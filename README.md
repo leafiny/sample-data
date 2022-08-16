@@ -37,7 +37,7 @@ Leafiny version (1.11):
 Database host (localhost): 
 Database port (3306): 
 Database user (root): 
-Database name (leafiny_cms): 
+Database name (leafiny): 
 Enter password: 
 
 [Import sample media]
