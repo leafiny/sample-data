@@ -7,7 +7,7 @@
 Import the database backup for your Leafiny version:
 
 ```bash
-mysql -u {user} -h {host} -p {database} < 1.11.0/database/leafiny_cms.sql
+mysql -u {user} -h {host} -p {database} < 1.11/database/leafiny_cms.sql
 ```
 
 Admin user credentials:
@@ -20,7 +20,7 @@ Admin user credentials:
 Copy the media directory into your Leafiny website root directory:
 
 ```bash
-cp -R -f 1.11.0/media {leafinyRoot}
+cp -R -f 1.11/media {leafinyRoot}
 ```
 
 ## Script
@@ -30,7 +30,7 @@ You can use the `install.sh` script:
 ```bash
 sh install.sh
 
-Leafiny version (1.11.0): 
+Leafiny version (1.11): 
 
 [Import sample database]
 

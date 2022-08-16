@@ -6,7 +6,7 @@ dbPort="3306"
 dbUser="root"
 dbDatabase="leafiny"
 dbPassword=""
-lyVersion="1.11.0"
+lyVersion="1.11"
 lyPath="/var/www/leafiny"
 
 read -p "Leafiny version ($lyVersion): " version
